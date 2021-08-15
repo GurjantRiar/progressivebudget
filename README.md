@@ -87,8 +87,8 @@ This application is a budget tracker that will add or subtract amounts that are 
 
 ## Links: 🔗
 
-✉️[Email](pratikpatel_85@yahoo.com)
+✉️[Email](gurjantriar_85@yahoo.com)
 
-👨[Github Profile](https://github.com/PratikPatel-Code/)
+👨[Github Profile](https://github.com/Gurjanriar/)
 
-📁[Project Repo](https://github.com/PratikPatel-Code/Budget-Tracker)
+📁[Project Repo](https://github.com/gurjantriar/Budget-Tracker)
