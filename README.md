@@ -2,7 +2,7 @@
 
 Application that can track your budget online and offline
 
-👨[App Link](https://damp-sierra-11089.herokuapp.com/)
+👨[App Link](https://budget1tracker.herokuapp.com/)
 
 #
 
