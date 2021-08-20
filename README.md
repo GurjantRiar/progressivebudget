@@ -89,6 +89,6 @@ This application is a budget tracker that will add or subtract amounts that are 
 
 ✉️[Email](gurjantriar_85@yahoo.com)
 
-👨[Github Profile](https://github.com/Gurjanriar/)
+👨[Github Profile](https://github.com/Gurjantriar/)
 
 📁[Project Repo](https://github.com/gurjantriar/Budget-Tracker)
